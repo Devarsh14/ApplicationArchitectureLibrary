@@ -1,0 +1,72 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.rsuser
+
+# Rider
+.idea/
+*.iml
+.idea_modules/
+*.ipr
+*.iws
+.idea/**
+!.idea/description
+!.idea/workspace.xml
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/.name
+*.sln.iml
+.idea/gradle.xml
+.idea/libraries/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS-specific files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.Trash-*
+
+# Logs and temporary files
+*.log
+*.lock
+*.tmp
+*.temp
+*.pid
+
+# Rider shared index files
+.idea/.idea.index
+.idea/.idea.sharedIndexes
+
+# Rider cache and sandbox files
+.idea/sandbox/
+.idea/system/
+
+# Other JetBrains Rider metadata
+.idea/vcs.xml
+.idea/dictionaries/
+.idea/httpRequests/
+.idea/artifacts/
+.idea/tasks/
+.idea/.idea_dataSources/
+.idea/.idea_dataSources.xml
+.idea/.idea_dataSources.ids
+.idea/sqlDataSources.xml
+.idea/sqlDataSources.ids
+.idea/markdown-navigator.xml
+.idea/debugger.xml
+.idea/workspace.xml
